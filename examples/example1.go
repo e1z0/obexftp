@@ -5,7 +5,7 @@ package main
  */
 
 import (
-    "obexftp"
+    "github.com/e1z0/obexftp"
     "os"
     "fmt"
     "path/filepath"
